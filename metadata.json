@@ -1,0 +1,8 @@
+{
+  "name": "University Practice Quiz Assistant",
+  "description": "Interactive study quiz generator for university students that creates 3-question practice quizzes from lecture notes with instant scoring and grounded explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
